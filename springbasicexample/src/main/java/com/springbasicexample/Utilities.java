@@ -12,6 +12,6 @@ package com.springbasicexample;
  */
 public class Utilities {
     public static void main(String[] args) {
-        System.out.println("Utilities.");
+        System.out.println("Utilities. CHANGED");
     }
 }
